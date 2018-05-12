@@ -1,0 +1,30 @@
+_repo: The-Friendships-of-Women_19199
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Alger, William Rounseville
+    alias: Alger, William R.
+    birthdate: 1822
+    deathdate: 1905
+    gutenberg_agent_id: '8457'
+    url: http://www.gutenberg.org/2009/agents/8457
+description: As manifested by this book, there was an acceptance and understanding
+  of the existence of close, intimate relationships among women in Victorian America.
+gutenberg_issued: '2006-09-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19199'
+  lccn: 09004014
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Women'
+- !lcsh 'Friendship'
+- !lcc 'HQ'
+title: The Friendships of Women
+url: http://www.gutenberg.org/ebooks/19199
