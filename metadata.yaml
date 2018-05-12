@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8457
 description: As manifested by this book, there was an acceptance and understanding
   of the existence of close, intimate relationships among women in Victorian America.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19199#The-Friendships-of-Women
 gutenberg_issued: '2006-09-08'
 gutenberg_type: Text
 identifiers:
